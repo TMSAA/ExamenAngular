@@ -1,0 +1,40 @@
+.contador{
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.pausa{
+    background-color: palevioletred;
+    width: 90px;
+    height: 50px;
+    margin-left: 80px;
+}
+.play{
+    background-color: palevioletred;
+    width: 90px;
+    height: 50px;
+    margin-left: 80px;
+}
+.record{
+    background-color: green;
+    width: 90px;
+    height: 50px;
+}
+.botonderecha{
+    background-color: aqua;
+}
+.botones{
+    background-color: bisque;
+}
+.numero{
+    font-size: x-large;
+    margin-left: 150px;
+}
+.div{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 250px;
+    margin-left: 50px;
+}
